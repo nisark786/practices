@@ -1,0 +1,2 @@
+const GITHUB_USER_TO_SERVER_TOKEN = "ghu_MockGithubUserToken1234567890abcdef1";
+const GITHUB_SERVER_TO_SERVER_TOKEN = "ghs_MockGithubServerToken1234567890abcde";
