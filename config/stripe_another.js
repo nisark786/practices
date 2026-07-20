@@ -1,0 +1,1 @@
+const superSecretStripe = "sk_test_51MzxyzABCDEF1234567890abcdefghijklmnopqrstuvwxyzAB12";
